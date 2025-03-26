@@ -19,3 +19,4 @@ To assess your performance, please submit predictions for the `test_images_flood
 
 ## Progress
 Milestone 1: EDA. [Report](https://docs.google.com/document/d/1RUBewmjUfKPpRcgTdssZq3jhmc9AIs0d26-glOFoRA0/edit?tab=t.0#heading=h.qs13alwirz8x)
+Milestone 2: Close the loop for classification with logistic regression. [Report](https://docs.google.com/document/d/1xDWnAdLS_3OnO-LArFH798HMRDGuQPYTaCULiqV0s20/edit?usp=sharing)
